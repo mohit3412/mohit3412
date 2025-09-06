@@ -61,10 +61,6 @@
       </td>
     </tr>
     <tr>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
-      </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
         <br>C++
@@ -74,8 +70,8 @@
         <br>Markdown
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
@@ -89,17 +85,10 @@
           <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
         <br>VS Code
       </td>
-       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime Text" />
-        <br>Sublime
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        <br>Notion
-      </td>
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🌟 Fun Fact
