@@ -55,12 +55,12 @@
           <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
         <br>Express
       </td>
-       <td align="center" width="96">
+    </tr>
+    <tr>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
         <br>C++
@@ -92,7 +92,7 @@
 ---
 
 ## 🌟 Fun Fact
-> Turning imagination into working code is my favorite kind of magic! ✨
+> The function of good software is to make the complex appear to be simple. ✨
 
 ---
 
